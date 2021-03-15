@@ -22,7 +22,7 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 - Transparent transactions & Confidential Transactions
 
-  - [Transparent transaction](https://blockstream.info/liquid/tx/99eaba3fba297bee53179ce58d0c77b63d007ce68d29c3673d61d6cc170466c1) <img class="" alt="transparent tx" src="{{ site.url }}/images/transparent_tx.png" />
+  - [Partially transparent transaction](https://blockstream.info/liquid/tx/99eaba3fba297bee53179ce58d0c77b63d007ce68d29c3673d61d6cc170466c1) <img class="" alt="transparent tx" src="{{ site.url }}/images/transparent_tx.png" />
 
   - [Confidential transaction](https://blockstream.info/liquid/tx/c46702887f6a05cdbeb8ef02474733a19f210fc27f8cda4f59bd88d3d495b9ac) <img class="" alt="confidential tx" src="{{ site.url }}/images/confidential_tx.png" />
 
@@ -36,7 +36,7 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 - Scalable
 
-- Bitcoin(mainchain) & Bitcoin(liquid) two-way peg allows LUSD run/interact in a network based on bitcoin liquidity.
+- Bitcoin(mainchain) & Bitcoin(liquid) two-way peg allows LUSD run/interact in a network with bitcoin liquidity.
 
 - LUSD Issuance and re-issuance (confidental and transparet)
 
