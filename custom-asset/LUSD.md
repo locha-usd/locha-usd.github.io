@@ -14,9 +14,26 @@ permalink: /custom-asset/LUSD
 
 LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin sidechain 
 
-[LUSD Asset information](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b) 
+- Use open source code [Elements](https://elementsproject.org/) as codebase
 
-<img class="" alt="alt text" src="/images/LUSD_asset_info.png" />
+- An extended bitcoin codebase
+
+- Same bitcoin protocol 
+
+- Transparent transactions & Confidential Transactions
+
+  - Transparent transaction <img class="" alt="transparent tx" src="{{ site.url }}/images/transparent_tx.png" />
+
+  - Confidential transaction <img class="" alt="confidential tx" src="{{ site.url }}/images/confidential_tx.png" />
+
+- Transaction fees 0.00000000001 bitcoin per transaction size  
+
+
+
+
+
+[LUSD Asset information](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b) 
+<img class="" alt="asset info" src="{{ site.url }}/images/LUSD_asset_info.png" />
 
 ***
 ### Why pegged to USD _index price_ and not USD as collateral?
