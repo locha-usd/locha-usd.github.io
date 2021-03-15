@@ -22,9 +22,9 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 - Transparent transactions & Confidential Transactions
 
-  - Transparent transaction <img class="" alt="transparent tx" src="{{ site.url }}/images/transparent_tx.png" />
+  - [Transparent transaction](https://blockstream.info/liquid/tx/99eaba3fba297bee53179ce58d0c77b63d007ce68d29c3673d61d6cc170466c1) <img class="" alt="transparent tx" src="{{ site.url }}/images/transparent_tx.png" />
 
-  - Confidential transaction <img class="" alt="confidential tx" src="{{ site.url }}/images/confidential_tx.png" />
+  - [Confidential transaction](https://blockstream.info/liquid/tx/c46702887f6a05cdbeb8ef02474733a19f210fc27f8cda4f59bd88d3d495b9ac) <img class="" alt="confidential tx" src="{{ site.url }}/images/confidential_tx.png" />
 
 - Transaction fees 0.000000001 bitcoin per transaction size (1/10 bitcoin fees) 
 
@@ -40,9 +40,9 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 - LUSD Issuance and re-issuance (confidental and transparet)
 
-  - Transparent issuance picture here
+  - [Transparent issuance](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b) <img class="" alt="transparent issuance" src="{{ site.url }}/images/transparent_issuance.png" />
 
-  - Confidential issuance picture here
+  - [Confidential issuance](https://blockstream.info/liquid/asset/0776a19697274ad487d0fd9ccbffea6fef1c327512e78e01b08df662442e657b) <img class="" alt="confideltial issuance" src="{{ site.url }}/images/confidential_issuance.png" />
 
 _WIP_
 
