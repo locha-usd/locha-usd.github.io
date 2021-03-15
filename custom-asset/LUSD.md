@@ -38,6 +38,13 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 - Bitcoin(mainchain) & Bitcoin(liquid) two-way peg allows LUSD run/interact in a network based on bitcoin liquidity.
 
+- LUSD Issuance and re-issuance (confidental and transparet)
+
+  - Transparent issuance picture here
+
+  - Confidential issuance picture here
+
+_WIP_
 
 ### [LUSD Asset information](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b) 
 <img class="" alt="asset info" src="{{ site.url }}/images/LUSD_asset_info.png" />
