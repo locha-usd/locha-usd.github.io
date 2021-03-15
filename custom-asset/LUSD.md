@@ -16,7 +16,7 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
 [LUSD Asset information](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b) 
 
-![alt text]({{ site.url }}/images/LUSD_asset_info.png "asset info")
+<img class="" alt="alt text" src="{{ site.url }}/images/LUSD_asset_info.png" />
 
 ***
 ### Why pegged to USD _index price_ and not USD as collateral?
