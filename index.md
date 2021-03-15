@@ -28,7 +28,7 @@ Key points:
 *    Custom Digital Asset “LUSD” (LOCHA-USD “LUSD”)
 *    Custodial services onboard (exchnages, banks, goverment institutions, ..)
 *    Non-custoial services users onboard (regular users, merchants, ..)
-*    Low tech access via USSD (CoinTigo custodial Service)
+*    Low tech access via USSD (custodial Service)
 *    Digital assets gateways (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs)
 *    Fiat gateways (OTC networks)
 
