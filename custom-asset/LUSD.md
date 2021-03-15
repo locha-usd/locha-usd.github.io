@@ -26,7 +26,7 @@ LUSD is built over [liquid network](https://blockstream.com/liquid/) a bitcoin s
 
   - Confidential transaction <img class="" alt="confidential tx" src="{{ site.url }}/images/confidential_tx.png" />
 
-- Transaction fees 0.00000000001 bitcoin per transaction size  
+- Transaction fees 0.000000001  bitcoin per transaction size (1/10 bitcoin fees) 
 
 
 
