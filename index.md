@@ -3,8 +3,6 @@ layout: home
 title: locha-usd.github.io
 ---
 
-## Proof of Concept of custom digital asset pegged to USD _index price_
-
 ### Motivation
 
 Developing countries, their institutions and the private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, in order to reach a balance between the legacy systems and the globalization of digital assets.
@@ -25,7 +23,7 @@ _“The stimulus token is designed exactly to do that, by giving merchants more_
 
 Key points:
 
-*    [Custom Digital Asset “LUSD” (LOCHA-USD “LUSD”)]({{ site.url }}/Custom-Asset/LUSD)
+*    [Custom Digital Asset]({{ site.url }}/custom-asset/LUSD)
 *    Custodial services onboard  (merchants, exchnages, banks, goverment institutions, ..)
 *    Non-custoial tools          (wallets, payment processors ..)
 *    Low tech access via USSD    (custodial Service)
