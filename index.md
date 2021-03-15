@@ -25,11 +25,12 @@ Key points:
 
 *    [Custom Digital Asset]({{ site.url }}/custom-asset/LUSD)
 *    Custodial services onboard  (merchants, exchanges, banks, government institutions, ..)
-*    Non-custodial tools         (wallets, payment processors ..)
-*    Low tech access via USSD    (custodial Service)
+*    Non-custodial wallet        (Greenwallet ???)
+-    Payment processors          (btcpay ????)
+*    Low tech access via USSD    (custodial service via ussd)
 *    Digital assets gateways     (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs, ..)
 *    Fiat gateways               (OTC networks, .. )
 
 
 
-__. . . ...Work in Progress__
+__. . . ...Work in Progress!__
