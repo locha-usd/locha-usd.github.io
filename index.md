@@ -8,7 +8,7 @@ title: locha-usd.github.io
 Developing countries, their institutions and the private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, in order to reach a balance between the legacy systems and the globalization of digital assets.
 
 
-[The Nigeian Senate discution about Bitcoin:](https://twitter.com/NGRSenate/status/1359801227052220416)
+[The Nigerian Senate discussion about Bitcoin:](https://twitter.com/NGRSenate/status/1359801227052220416)
 
 _“Cryptocurrency has become a worldwide transaction of which you cannot even identify who owns what. The technology is so strong that I don’t see the kind of regulation that we can do._ __Bitcoin has made our currency almost useless or valueless__ _."_ - [Senator Sani Musa](https://twitter.com/NGRSenate/status/1359835689513271301)
 
@@ -24,8 +24,8 @@ _“The stimulus token is designed exactly to do that, by giving merchants more_
 Key points:
 
 *    [Custom Digital Asset]({{ site.url }}/custom-asset/LUSD)
-*    Custodial services onboard  (merchants, exchnages, banks, goverment institutions, ..)
-*    Non-custoial tools          (wallets, payment processors ..)
+*    Custodial services onboard  (merchants, exchanges, banks, government institutions, ..)
+*    Non-custodial tools          (wallets, payment processors ..)
 *    Low tech access via USSD    (custodial Service)
 *    Digital assets gateways     (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs, ..)
 *    Fiat gateways               (OTC networks, .. )
