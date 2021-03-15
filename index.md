@@ -25,12 +25,12 @@ _“The stimulus token is designed exactly to do that, by giving merchants more_
 
 Key points:
 
-*    Custom Digital Asset “LUSD” (LOCHA-USD “LUSD”)
-*    Custodial services onboard (exchnages, banks, goverment institutions, ..)
-*    Non-custoial services users onboard (regular users, merchants, ..)
-*    Low tech access via USSD (custodial Service)
-*    Digital assets gateways (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs)
-*    Fiat gateways (OTC networks)
+*    [Custom Digital Asset “LUSD” (LOCHA-USD “LUSD”)]({{ site.url }}/Custom-Asset/LUSD)
+*    Custodial services onboard  (merchants, exchnages, banks, goverment institutions, ..)
+*    Non-custoial tools          (wallets, payment processors ..)
+*    Low tech access via USSD    (custodial Service)
+*    Digital assets gateways     (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs, ..)
+*    Fiat gateways               (OTC networks, .. )
 
 
 
