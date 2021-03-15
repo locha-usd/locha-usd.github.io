@@ -1,30 +1,59 @@
-Proof of Concept of custom digital asset pegged to USD index price
-Motivation
+# locha-usd.github.io
 
-Developing countries, their institutions and the private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, in order to reach a balance between the legacy systems and the globalization of digital assets.
+The [website https://locha-usd.github.io/](https://locha-usd.github.io/) uses [Github Pages](https://pages.github.com/) to serve its content using the files within this repository.
 
-The Nigeian Senate discution about Bitcoin:
+Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static website content from simple "markdown" formatted files. Making changes to pages on the locha-usd.github.io site is as easy as editing one of this repository's ".md" files. Accepted changes will be automatically built and served to the website.
 
-Senator Sani Musa: “Cryptocurrency has become a worldwide transaction of which you cannot even identify who owns what. The technology is so strong that I don’t see the kind of regulation that we can do. Bitcoin has made our currency almost useless or valueless .”
+You can edit files within this repository directly via Github or follow the steps below if you prefer to work on and preview your changes locally.
 
-Senator Biodun Olujimi: “We didn’t create Cryptocurrency and so we cannot kill it and cannot also refuse to ensure it works for us . These children are doing great business with it and they are getting result and Nigeria cannot immune itself from this sort of business .”
+If you are not comfortable doing this then please raise any changes you would like to propose as an issue [here](https://github.com/locha-usd/locha-usd.github.io/issues) and use the "suggested content change" label.
 
-Government of Bermuda Partners with Stablehouse on “Digital Stimulus Token”:
+## Running locha-usd.github.io locally
 
-Stablehouse CEO Philippe Bekhazi: “The stimulus token is designed exactly to do that, by giving merchants more accessible and practical payments options in the evolving digital age . For consumers, it alleviates the dependency on cash amid the ongoing health concerns, while providing an easy and convenient payment channel. Together, with the Government of Bermuda, we aim to set a benchmark for all governments around the world to pursue digital stimulus solutions.”
-Scope
+You can run the website locally to preview any changes you want to make before submitting a Pull Request.
 
-Key points:
+If you are using Linux you can follow the steps below. If you are not using Linux please follow the instructions at https://jekyllrb.com/docs/installation after cloning this repository to your local machine.
 
-    Custom Digital Asset “LUSD” (LOCHA-USD “LUSD”)
-    Custodial services onboard (exchnages, banks, goverment institutions, ..)
-    Non-custoial services users onboard (regular users, merchants, ..)
-    Low tech access via USSD (CoinTigo custodial Service)
-    Digital assets gateways (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs)
-    Fiat gateways (OTC networks)
+Clone the repository:
+~~~~
+git clone https://github.com/locha-usd/locha-usd.github.io.git
+~~~~
 
-    locha-usd.github.io on github
-    twitter
+Install ruby, ruby-dev and build-essential packages: 
+~~~~
+sudo apt-get install ruby ruby-dev build-essential
+~~~~
 
-Proof of Concept of custom digital asset pegged to USD index price
+It is best to avoid installing Ruby Gems as the root user. If you have not already set up a gem installation directory for your user account, execute the following commands to add the required environment variables to your ~/.bashrc file. This will configure the gem installation path:
+~~~~
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc
+echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
+~~~~
+
+Install the Jekyll and bundler gems:
+~~~~
+gem install jekyll bundler
+~~~~
+
+Move into the site's directory:
+~~~~
+cd locha-usd.github.io
+~~~~
+
+Install the dependencies required by the website's Gemfile:
+~~~~
+bundle install
+~~~~
+
+Build the site and start the local server:
+~~~~
+bundle exec jekyll serve 
+~~~~
+
+View the site by browsing to: http://127.0.0.1:4000
+
+Note: changes you make to the .md files will be automatically rebuilt and there is no need to restart the server to view the changes. If you make any changes to the "_config.yml" file however, you will need to stop the server using Ctrl+C and start it again using the "bundle exec jekyll serve" command.
+
 
