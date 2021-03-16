@@ -25,11 +25,12 @@ Key points:
 
 *    [Custom Digital Asset]({{ site.url }}/custom-asset/LUSD)
 *    Custodial services onboard  (merchants, exchanges, banks, government institutions, ..)
+     - _protocol to handle keys_!!!!!help (Split wallets Shamirs sharing, mpc, hsm's, plain multisignature and pray?) 
 *    Non-custodial wallet        (Greenwallet ???)
--    Payment processors          (btcpay ????)
+-    Payment processor           (btcpay ?????)
 *    Low tech access via USSD    (custodial service via ussd)
-*    Digital assets gateways     (atomic swaps, cross chain atomic swaps, Bitcoin mainchain & liquid pegs, ..)
-*    Fiat gateways               (OTC networks, .. )
+*    Digital assets gateways     (atomic swaps, cross chain atomic swaps, bitcoin liquid two-ways pegs, ..)
+*    Fiat gateways               (OTC networks, banks, ... )
 
 
 
