@@ -17,7 +17,7 @@ baseurl: "" # the subpath of your site if neded, e.g. /sitecontent
 
 title: locha-usd.github.io
 description: >- # this means to ignore newlines
-  Proof of Concept of custom digital asset pegged to USD index price.
+  Feasibility study for custom digital assets implementation by developing countries with Liquid Network
 
 
 github_link: https://github.com/locha-usd/locha-usd.github.io
