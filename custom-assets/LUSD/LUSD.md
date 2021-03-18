@@ -81,8 +81,12 @@ _WIP_
 
 
 
+verify the USDT collateral [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5) 
+verify the LUSD supply     [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
 
+
+##### TODO* LUSD ---> USDT fx 
 
 ***
 # FAQ 
