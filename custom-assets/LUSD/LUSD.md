@@ -64,6 +64,9 @@ _WIP_
 
 ***
 # [Exchange & supply control](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
+
+## Exchange
+
 ##### !warning only 1 way ready if you send USDT now will not be able to exchange back till method implemented.
 ##### !warning only ["Confidential Transactions"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions) accepted by now.
 
@@ -72,7 +75,6 @@ _WIP_
 
 ```
 1 USDT ----> 
-
        <---- 1 LUSD - network fee - fx fee
 
 ```
@@ -81,9 +83,24 @@ _WIP_
 
 
 
-verify the USDT collateral [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5) 
-verify the LUSD supply     [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
+* verify the USDT collateral         [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5) 
+* verify the LUSD circulating supply [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
+## Supply control by collateral
+
+<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_supply_green.png" />
+
+```
+initial supply: 100,7503 LUSD
+
+105 USDT ---->
+              <---- 104.6020 LUSD 
+
+final circulating supply 104.6020
+```
+
+* verify the USDT collateral         [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
+* verify the LUSD circulating supply [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
 
 ##### TODO* LUSD ---> USDT fx 
