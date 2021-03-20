@@ -113,7 +113,7 @@ A collateralized digital asset could be designed using the following types of co
 |Type            |Collateral|
 |--------|--------|
 |Money           |dollar, euro, yen, ..       |
-|Commodities     |oil, gold, corn, ..         |
+|Commodities     |oil, gold, corn, soja..         |
 |Securities      |stocks, banknotes, bonds, ..|
 |Cryptocurrencies|bitcoin, ethereum, ..       |
 
