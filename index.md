@@ -4,8 +4,6 @@ title: locha-usd.github.io
 ---
 
 
-# Feasibility study for custom digital assets implementation by developing countries with [Liquid Network](https://docs.blockstream.com/liquid/technical_overview.html)
-
 ### Motivation
 
 Developing countries, their institutions and private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, in order to reach a balance between the legacy systems and the globalization of digital assets.
@@ -41,4 +39,13 @@ __. . . ...be nice Work in Progress!__
 
 
 
+
+##### Support this work!
+
+`Bitcoin:3LEgz6MPp1ybPWXjvcSiUwcvpoBxTKdEQ3` 
+<img class="" alt="Bitcoin Qr" src="{{ site.url }}/images/bitcoin_qr_s.png" />
+
+
+`Liquid:VJLFeoUv48CAi2yL7PB1asdHaBGiW67rzGnSdBDeZNxCAwiihFSB4id7qqD9Z3y8dtJShDwAhEJEZa8a`
+<img class="" alt="Liquid Qr" src="{{ site.url }}/images/liquid_qr_s.png" />
 
