@@ -42,29 +42,3 @@ __. . . ...be nice Work in Progress!__
 
 
 
-
-
-
-***
-
-
-
-
-##### _support this work_
-
-
-
-***
-
-
-<img class="" alt="LUSD asset info" src="{{ site.url }}/images/bitcoin_qr_s.png" />
-
-### `Bitcoin:3LEgz6MPp1ybPWXjvcSiUwcvpoBxTKdEQ3`
-
-***
-
-
-<img class="" alt="LUSD asset info" src="{{ site.url }}/images/liquid_qr_s.png" />
-
-#### `Liquid:VJLFeoUv48CAi2yL7PB1asdHaBGiW67rzGnSdBDeZNxCAwiihFSB4id7qqD9Z3y8dtJShDwAhEJEZa8a`
-
