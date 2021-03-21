@@ -22,7 +22,7 @@ Define a key management standard/protocol to facilitate the implementation of cu
 ## Transactions batching procedures
 
 ***
-## BIP32 BIP44 BIP49 & BIP84 inplmentation for dummies 
+## BIP32 BIP44 BIP49 & BIP84 implmentation for dummies 
 
 ##### at this point banks, exchanges etc will run away need figure what to do here .
 
