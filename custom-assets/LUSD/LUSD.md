@@ -61,6 +61,7 @@ final circulating supply 104.6020
 ```
 
 * verify the USDT collateral         [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
+##### TODO run our own block explorer to show the blind utxos at exchange address and probably !, atm use will not be able to verify the collateral amount at the exchange address due to greenwallet mandatory CT, run a private explorer or add an enpoint with the blind key 
 * verify the LUSD circulating supply [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
 
