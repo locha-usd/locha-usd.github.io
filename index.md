@@ -24,6 +24,7 @@ _“The stimulus token is designed exactly to do that, by giving merchants more_
 
 Key points:
 
+* [][Network/Chain/Protocol]({{ site.url }}/liquid/LIQUID)
 * [][Custom digital asset USD index]({{ site.url }}/custom-assets/LUSD/LUSD) 
 * []Custom digital asset compound USD/BTC index                         
 * []Custodial services/institutions keys management standard protocol.                                         
