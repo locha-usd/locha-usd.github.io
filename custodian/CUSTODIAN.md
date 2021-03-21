@@ -3,14 +3,13 @@ layout: page
 title: custodian 
 permalink: /custodian/CUSTODIAN
 ---
+##### Help wanted no money for bounties YET!!!!
 
 
 ***
 ## Keys management
 
 Define a key management standard/protocol to facilitate the implementation of custodian services efficiently without the need for third-party services
-
-##### Help wanted no money for bounties YET!!!!
 
 - multisig 
 - split wallets
@@ -22,7 +21,7 @@ Define a key management standard/protocol to facilitate the implementation of cu
 
 
 ***
-## transactions batching procedures
+## Transactions batching procedures
 
 
 
