@@ -28,7 +28,7 @@ Key points:
 * [][Custom digital asset USD index]({{ site.url }}/custom-assets/LUSD/LUSD) 
 * []Custom digital asset compound USD/BTC index                         
 * [][Custodian services/institutions]({{ site.url }}/custodian/CUSTODIAN)                                         
-* [][Non-custodian]({{ site.url }}/non-custodian/NON-CUSTODIAN)
+* [][Non-custodian]({{ site.url }}/non-custodian/NON-CUSTODIAN) _NOT YOUR KEYS, NOT YOUR COINS!_
 * []Payment processor merchants onboard, btcpay??
 * []Low tech access via USSD, CoinTigo service via ussd, moving to open source!.  
 * []Digital assets gateways, atomic swaps, cross chain atomic swaps, two-ways pegs.
