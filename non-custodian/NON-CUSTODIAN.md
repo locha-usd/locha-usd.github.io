@@ -11,17 +11,20 @@ permalink: /non-custodian/NON-CUSTODIAN
 
 sorry guys UX/IU not cool for no-coiners
 
-- Fork bluewallet adn include liquid/elements fancy stuff
+- Fork bluewallet to include liquid/elements fancy stuff
 
-- set up the backend https://github.com/Blockstream/electrs 
+- set up the [electrs](https://github.com/Blockstream/electrs) backend 
 
-- [BIP39](https://github.com/bitcoinjs/bip39) + 2nd master key for [CT](https://elementsproject.org/features/confidential-transactions)  
+- [BIP39](https://github.com/bitcoinjs/bip39) + 2nd master key for [CT](https://elementsproject.org/features/confidential-transactions)
 
+- unblind UTXOs
+ 
 - Liquid addresses derivation [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), [BIP49](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki), [BIP84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki) 
 
 - try subvert the CT as mandatory is ugly af
 
 - better custom assets management at presentation level 
+
 
 
 

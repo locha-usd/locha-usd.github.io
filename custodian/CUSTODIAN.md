@@ -26,7 +26,7 @@ Define a key management standard/protocol to facilitate the implementation of cu
 
 ##### at this point banks, exchanges etc will run away need figure what to do here .
 
- <img class="" alt="Crazy map" src="{{ site.url }}/images/crazy_map.png" />
+ <img class="" alt="Crazy map" src="{{ site.url }}/images/crazy_map.jpg" />
 
 ***
 ## User balances & deposits handle procedures 

@@ -28,8 +28,8 @@ Key points:
 * [][Custom digital asset USD index]({{ site.url }}/custom-assets/LUSD/LUSD) 
 * []Custom digital asset compound USD/BTC index                         
 * [][Custodian services/institutions]({{ site.url }}/custodian/CUSTODIAN)                                         
-* [][Non-custodian]({{ site.url }}/non-custodian/NON-CUSTODIAN) _NOT YOUR KEYS, NOT YOUR COINS!_
-* []Low tech access via USSD. _yes we can_  
+* [][Non-custodian]({{ site.url }}/non-custodian/NON-CUSTODIAN)  _because NOT YOUR KEYS, NOT YOUR COINS!_
+* []Low tech access via USSD.  _yes we can_  
 * []Digital assets gateways, atomic swaps, cross chain atomic swaps, two-ways pegs.
 * []Fiat gateways, OTC networks.
 
