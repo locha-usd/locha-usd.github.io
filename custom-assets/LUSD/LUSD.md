@@ -3,7 +3,7 @@ layout: page
 title: Custom Asset LUSD
 permalink: /custom-assets/LUSD/LUSD
 ---
-
+##### Warning dont buy LUSD you will not get rich with it, while its collateralized by USDT atm is only for testing a development purposes and anything could go wrong at this point cause we are lazy developers.  
 # LUSD an asset pegged to USD [_index price_](https://en.wikipedia.org/wiki/Price_index)  
 
 
