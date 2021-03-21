@@ -27,7 +27,7 @@ Key points:
 * [][Network/Chain/Protocol]({{ site.url }}/liquid/LIQUID)
 * [][Custom digital asset USD index]({{ site.url }}/custom-assets/LUSD/LUSD) 
 * []Custom digital asset compound USD/BTC index                         
-* []Custodial services/institutions keys management standard protocol.                                         
+* [][Custodian services/institutions]({{ site.url }}/custodian/CUSTODIAN)                                         
 * []Non-custodial wallet, a replace for greenwallet??.
 * []Payment processor merchants onboard, btcpay??
 * []Low tech access via USSD, CoinTigo service via ussd, moving to open source!.  
