@@ -32,3 +32,7 @@ sorry guys UX/IU not cool for no-coiners
 ## Payment processor 
 
 - [BTCPay](https://btcpayserver.org/)???
+
+
+
+_WIP_
