@@ -11,16 +11,21 @@ permalink: /non-custodian/NON-CUSTODIAN
 
 sorry guys UX/IU not cool for no-coiners
 
-- Fork bluewallet
+- Fork bluewallet adn include liquid/elements fancy stuff
 
 - set up the backend https://github.com/Blockstream/electrs 
 
-- figure how a 2nd master key works in green wallet for CT from java to js 
+- [BIP39](https://github.com/bitcoinjs/bip39) + 2nd master key for [CT](https://elementsproject.org/features/confidential-transactions)  
 
-- keys codification prefix etc etc 
+- Liquid addresses derivation [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), [BIP49](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki), [BIP84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki) 
 
-- try subvert the CT as mandatory 
+- try subvert the CT as mandatory is ugly af
 
 - better custom assets management at presentation level 
 
 
+
+
+## Payment processor 
+
+- [BTCPay](https://btcpayserver.org/)???

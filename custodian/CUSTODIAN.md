@@ -18,26 +18,21 @@ Define a key management standard/protocol to facilitate the implementation of cu
 - any special sauce ??? 
 
 
+***
+## Transactions batching procedures
 
+***
+## BIP32 BIP44 BIP49 & BIP84 inplmentation for dummies 
+
+##### at this point banks, exchanges etc will run away need figure what to do here .
+
+ <img class="" alt="Crazy map" src="{{ site.url }}/images/crazy_map.png" />
+
+***
+## User balances & deposits handle procedures 
 
 ***
 ## Transactions batching procedures
 
-
-
-
 ***
-## BIP44 BIP49 & BIP84 inplmentation for dummies 
-
-
-
-
-
-***
-## Because bip44,49,84 why not bip32 and 39 for dummies 
-##### at this point banks, exchanges etc will run away need figure what to do here .
-
-
-
-***
-## User balances & deposits handle procedures 
+## [Electrs](https://github.com/Blockstream/electrs)

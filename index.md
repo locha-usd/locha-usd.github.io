@@ -6,7 +6,7 @@ title: locha-usd.github.io
 
 ### Motivation
 
-Developing countries, their institutions and private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, in order to reach a balance between the legacy systems and the globalization of digital assets.
+Developing countries, their institutions and private sector are looking for a fast and secure solution to face the challenges that digital assets represent to their interests, and in order to reach a balance between the legacy system and the globalization of digital assets.
 
 
 ## [The Nigerian Senate discussion about Bitcoin:](https://twitter.com/NGRSenate/status/1359801227052220416)
@@ -29,8 +29,7 @@ Key points:
 * []Custom digital asset compound USD/BTC index                         
 * [][Custodian services/institutions]({{ site.url }}/custodian/CUSTODIAN)                                         
 * [][Non-custodian]({{ site.url }}/non-custodian/NON-CUSTODIAN) _NOT YOUR KEYS, NOT YOUR COINS!_
-* []Payment processor merchants onboard, btcpay??
-* []Low tech access via USSD, CoinTigo service via ussd, moving to open source!.  
+* []Low tech access via USSD. _yes we can_  
 * []Digital assets gateways, atomic swaps, cross chain atomic swaps, two-ways pegs.
 * []Fiat gateways, OTC networks.
 
