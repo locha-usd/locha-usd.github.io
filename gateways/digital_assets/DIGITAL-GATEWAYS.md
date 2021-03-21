@@ -25,4 +25,4 @@ permalink: /gateways/digital/DIGITAL-GATEWAYS
 
 
 
-_WIP_
+##### all here is _WIP_
