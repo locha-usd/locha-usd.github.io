@@ -6,7 +6,7 @@ permalink: /liquid/LIQUID
 
 
 
-## [liquid network](https://blockstream.com/liquid/) _a bitcoin sidechain_
+## [Liquid Network](https://blockstream.com/liquid/) _The Bitcoin sidechain_
 
 - Uses open source code [Elements](https://elementsproject.org/)
 
@@ -39,6 +39,7 @@ permalink: /liquid/LIQUID
   - [Confidential issuance](https://blockstream.info/liquid/asset/0776a19697274ad487d0fd9ccbffea6fef1c327512e78e01b08df662442e657b) <img class="" alt="confidential issuance" src="{{ site.url }}/images/confidential_issuance.png" />
 
 - Lquid network can be reproduced privately with [Elements](https://elementsproject.org/)
+
 
 _WIP_
 
