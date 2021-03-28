@@ -11,19 +11,19 @@ permalink: /custodian/CUSTODIAN
 
 Define a key management standard/protocol to facilitate the implementation of custodian services efficiently without the need for third-party services
 
-- multisig 
-- split wallets
-- HSM's
-- other
-- any special sauce ??? 
+Proporsals:
 
+- Hot wallet / Cold Wallet [example:](https://www.ledger.com/how-to-properly-secure-cryptocurrencies-exchanges)  
 
+- Shielded multi-signature [example:](https://medium.com/interdax/cryptocurrency-exchange-security-how-interdax-protects-customer-funds-8ef8e8f3eb8a) 
+##### TODO calculate tx size with this + CT load in liquid/elements 
+ 
 ***
 ## Transactions batching procedures
 
 ***
 ## BIP32 BIP44 BIP49 & BIP84 implmentation for dummies 
-
+https://www.ledger.com/how-to-properly-secure-cryptocurrencies-exchanges
 ##### at this point banks, exchanges etc will run away need figure what to do here .
 
  <img class="" alt="Crazy map" src="{{ site.url }}/images/crazy_map.jpg" />
