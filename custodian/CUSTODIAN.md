@@ -23,7 +23,6 @@ Proporsals:
 
 ***
 ## BIP32 BIP44 BIP49 & BIP84 implmentation for dummies 
-https://www.ledger.com/how-to-properly-secure-cryptocurrencies-exchanges
 ##### at this point banks, exchanges etc will run away need figure what to do here .
 
  <img class="" alt="Crazy map" src="{{ site.url }}/images/crazy_map.jpg" />
