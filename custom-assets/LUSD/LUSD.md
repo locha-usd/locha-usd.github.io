@@ -50,10 +50,13 @@ exchange address:
 two ways exchange model :
 
 ```
+
 1.9966 USDT    ----> exchange address 
 user address  <---- 1,8154 LUSD (fx amount - fx fees - tx network fees) 
+
 ```
 ```
+
 1.1630 LUSD    ----> exchange address
 user address  <---- 0.9902 USDT (fx amount - fx fees - tx network fees)
 
