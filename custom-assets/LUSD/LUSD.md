@@ -34,9 +34,7 @@ permalink: /custom-assets/LUSD/LUSD
 [USDT collateral:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 ##### !need a custom block explorer to show the confidential txs there or a service to publish blinding keys 
 ***
-# USDT - LUSD Exchange
-
-## Private exchange services
+# Public Address USDT - LUSD exchange 
 ##### !warning only ["Confidential Transactions accepted by now"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions).
 
 Works through specific addresses only for two-way exchange:
@@ -66,7 +64,9 @@ example using [green wallet](https://blockstream.com/green/):
 
 <img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green.png" />
 
-
+***
+# Atomic swap USDT - LUSD exchange
+_WIP_
 ***
 # FAQ 
 ##### Why pegged to USD _index price_ and not USD as collateral?
