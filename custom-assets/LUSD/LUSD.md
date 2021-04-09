@@ -28,52 +28,41 @@ permalink: /custom-assets/LUSD/LUSD
 
 [LUSD circulating supply:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
-
+***
 # Verify USDT Collateral
 
 [USDT collateral:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 ##### !need a custom block explorer to show the confidential txs there or a service to publish blinding keys 
-
+***
 # USDT - LOCHA Exchange
 
 ## Private exchange services
 ##### !warning only ["Confidential Transactions accepted by now"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions).
 
-<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green2.png" />
+Works through specific addresses only for two-way exchange:
 
+## example exchange address: 
 
-```
-1 USDT ----> 
-       <---- 1 LUSD - network fee - fx fee
-
-```
+[Gvnfud1pAvxp156XZA76UutKCHndsj46N5](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
 
 <img class="" alt="LUSD fx address" src="{{ site.url }}/images/LUSD_fx_address_m.png" />
 
-
-
-* verify the USDT collateral         [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5) 
-* verify the LUSD circulating supply [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
-
-## Supply control by collateral
-
-<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_supply_green.png" />
+## two ways exchange
 
 ```
-initial supply: 100,7503 LUSD
+1.9966 USDT    ----> exchange address 
+user address  <---- 1,8154 LUSD 
 
-105 USDT ---->
-              <---- 104.6020 LUSD 
 
-final circulating supply 104.6020
+1.1630 LUSD    ----> exchange address
+user address  <---- 0.9902 USDT 
+
 ```
-
-* verify the USDT collateral         [here:](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
-##### TODO run our own block explorer to show the blind utxos at exchange address and probably !, atm use will not be able to verify the collateral amount at the exchange address due to greenwallet mandatory CT, run a private explorer or add an enpoint with the blind key 
-* verify the LUSD circulating supply [here:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
+## example using [green wallet](https://blockstream.com/green/)
 
 
-##### TODO* LUSD ---> USDT fx 
+<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green.png" />
+
 
 ***
 # FAQ 
