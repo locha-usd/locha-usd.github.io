@@ -34,31 +34,31 @@ permalink: /custom-assets/LUSD/LUSD
 [USDT collateral:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 ##### !need a custom block explorer to show the confidential txs there or a service to publish blinding keys 
 ***
-# USDT - LOCHA Exchange
+# USDT - LUSD Exchange
 
 ## Private exchange services
 ##### !warning only ["Confidential Transactions accepted by now"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions).
 
 Works through specific addresses only for two-way exchange:
 
-## example exchange address: 
+exchange address: 
 
 [Gvnfud1pAvxp156XZA76UutKCHndsj46N5](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
 
 <img class="" alt="LUSD fx address" src="{{ site.url }}/images/LUSD_fx_address_m.png" />
 
-## two ways exchange
+two ways exchange model :
 
 ```
 1.9966 USDT    ----> exchange address 
-user address  <---- 1,8154 LUSD 
-
-
+user address  <---- 1,8154 LUSD (fx amount - fx fees - tx network fees) 
+```
+```
 1.1630 LUSD    ----> exchange address
-user address  <---- 0.9902 USDT 
+user address  <---- 0.9902 USDT (fx amount - fx fees - tx network fees)
 
 ```
-## example using [green wallet](https://blockstream.com/green/)
+example using [green wallet](https://blockstream.com/green/):
 
 
 <img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green.png" />
