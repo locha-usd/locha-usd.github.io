@@ -24,14 +24,22 @@ permalink: /custom-assets/LUSD/LUSD
 - max re-issueance amount per transaction : 210.000.000.000,0000
 
 ***
-# [Exchange & supply control](https://blockstream.info/liquid/address/Gvnfud1pAvxp156XZA76UutKCHndsj46N5)
+# Verify Total Supply
 
-## Exchange
+[LUSD circulating supply:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
 
-##### !warning only 1 way ready if you send USDT now will not be able to exchange back till method implemented.
-##### !warning only ["Confidential Transactions"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions) accepted by now.
 
-<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green.png" />
+# Verify USDT Collateral
+
+[USDT collateral:](https://blockstream.info/liquid/asset/84467161a382f4b55912805a1ab992c89a7ca126024dbf1463b3d8d5cdf9e68b)
+##### !need a custom block explorer to show the confidential txs there or a service to publish blinding keys 
+
+# USDT - LOCHA Exchange
+
+## Private exchange services
+##### !warning only ["Confidential Transactions accepted by now"](https://docs.blockstream.com/liquid/technical_overview.html#confidential-transactions).
+
+<img class="" alt="LUSD asset info" src="{{ site.url }}/images/LUSD_fx_green2.png" />
 
 
 ```
