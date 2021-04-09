@@ -66,7 +66,10 @@ example using [green wallet](https://blockstream.com/green/):
 
 ***
 # Atomic swap USDT - LUSD exchange
+
 _WIP_
+
+
 ***
 # FAQ 
 ##### Why pegged to USD _index price_ and not USD as collateral?
